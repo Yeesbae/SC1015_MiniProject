@@ -3,7 +3,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Contributors
 @Yeesbae -  <br />
-@WeiHaoChin - Data Cleaning , Logistic Regression, Decision Tree, Slides , Video script <br />
+@WeiHaoChin - EDA, Data Cleaning , Logistic Regression, Decision Tree, Slides , Video script <br />
 @cherylchq - 
 ## Problem Definition
 
@@ -17,10 +17,10 @@ Which model would be the best to predict it?
 
 ## Conclusion
 1. Metascore has the highest correlation with IMDB Ratings
-2. Dataset is distributed unevenly and skewed towards higher IMDB Ratings
-3. Model created using Decision tree has a high False Positive Rate
-4. Model for Logistic Regression created using this data can only predict IMDB rating above 6 due to the dataset.
-5. Models are improved by using Multi variables to predict data, with Metascore being the most important variable
+3. Dataset is distributed unevenly and skewed towards higher IMDB Ratings
+4. Model created using Decision tree has a high False Positive Rate
+5. Model for Logistic Regression created using this data can only predict IMDB rating above 6 due to the dataset constraints.
+6. Models are improved by using Multi variables to predict data, with Metascore being the most important variable
 
 ## What did we learn from this project
 1. Alpha pruning for Decision Tree <br/>
@@ -32,3 +32,7 @@ Which model would be the best to predict it?
 
 ## Credit for data
 For the data set that we used, it was from Kaggle: https://www.kaggle.com/datasets/prishasawhney/imdb-dataset-top-2000-movies
+
+## References 
+https://www.youtube.com/watch?v=q90UDEgYqeI
+https://scikit-learn.org/0.24/modules/generated/sklearn.metrics.plot_confusion_matrix.html
