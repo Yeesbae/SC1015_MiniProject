@@ -1,5 +1,5 @@
 # Welcome to SC1015 Mini Project
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on IMDB Rating based on the dataset retrieved from https://www.kaggle.com/datasets/prishasawhney/imdb-dataset-top-2000-movies
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on predicting IMDB Rating based on the dataset retrieved from https://www.kaggle.com/datasets/prishasawhney/imdb-dataset-top-2000-movies
 
 ## Contributors
 @Yeesbae -  <br />
