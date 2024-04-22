@@ -5,6 +5,12 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 @Yeesbae -  <br />
 @WeiHaoChin - EDA, Data Cleaning , Logistic Regression, Decision Tree, Slides , Video script <br />
 @cherylchq - 
+## Context and outline 
+We chose to talk about this topic as understanding the factors that influence imdb ratings can allow us to gain deeper insights into the reasons behind film success and viewer preferences, and what attributes would make a film appeal more to its viewers <br/>
+
+This can allow stakeholders to make more informed decisions in the cinema industry and even tailor marketing strategies to draw more viewer ratings and engagement. 
+
+
 ## Problem Definition
 
 Are we able to predict if a movie is good (rating above 6) based on its attributes? <br />
