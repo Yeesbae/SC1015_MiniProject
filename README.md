@@ -23,12 +23,14 @@ Which model would be the best to predict it?
 6. Models are improved by using Multi variables to predict data, with Metascore being the most important variable
 
 ## What did we learn from this project
-1. Alpha pruning for Decision Tree <br/>
-2. Able to discern unnecessary information given a pool of data <br/>
-3. Understood machine learning models used (Regression Line,Decision Tree) <br/>
-4. Understood Random forest model <br/>
-5. Convert text to weighted numerical representations <br/>
-6. Learnt to use github efficiently for group work 
+1. Alpha pruning for Decision Tree
+2. Alpha pruning improves classification accuracy of test dataset
+3. Able to discern unnecessary information given a pool of data <br/>
+4. Understood machine learning models used (Regression Line,Decision Tree) <br/>
+5. Understood Random forest model <br/>
+6. Convert text to weighted numerical representations <br/>
+7. Learnt to use github efficiently for group work
+
 
 ## Credit for data
 For the data set that we used, it was from Kaggle: https://www.kaggle.com/datasets/prishasawhney/imdb-dataset-top-2000-movies
