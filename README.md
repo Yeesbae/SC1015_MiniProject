@@ -43,5 +43,5 @@ The primary objective of this analytical endeavor is to develop a predictive mod
 For the data set that we used, it was from Kaggle: https://www.kaggle.com/datasets/prishasawhney/imdb-dataset-top-2000-movies
 
 ## References 
-https://www.youtube.com/watch?v=q90UDEgYqeI
+https://www.youtube.com/watch?v=q90UDEgYqeI <br/>
 https://scikit-learn.org/0.24/modules/generated/sklearn.metrics.plot_confusion_matrix.html
