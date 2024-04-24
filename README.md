@@ -15,6 +15,7 @@ This can allow stakeholders to make more informed decisions in the cinema indust
 
 Are we able to predict if a movie is good (rating above 6) based on its attributes? <br />
 Which model would be the best to predict it?
+The primary objective of this analytical endeavor is to develop a predictive model that can accurately determine whether a movie is considered "good" based on a predefined IMDb rating threshold of above 6. This classification task aims to leverage various movie attributes to facilitate effective predictions that can be utilized by industry stakeholders for targeted marketing, distribution strategies, and further analytical insights.
 
 ## Machine Learning algorithms used
 1. Logistic Regression
