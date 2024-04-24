@@ -4,7 +4,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors
 @Yeesbae -  EDA, Data Cleaning, Linear Regression, Slides, Video script, conclude findings<br />
 @WeiHaoChin - EDA, Data Cleaning , Logistic Regression, Decision Tree, Slides , Video script <br />
-@cherylchq - 
+@cherylchq - EDA, Linear Regression, Random Forest, Slides, Video script, Film video, Conclude findings <br />
 ## Context and outline 
 We chose to talk about this topic as understanding the factors that influence imdb ratings can allow us to gain deeper insights into the reasons behind film success and viewer preferences, and what attributes would make a film appeal more to its viewers <br/>
 
@@ -24,10 +24,10 @@ The primary objective of this analytical endeavor is to develop a predictive mod
 
 ## Conclusion
 1. Metascore has the highest correlation with IMDB Ratings
-3. Dataset is distributed unevenly and skewed towards higher IMDB Ratings
-4. Model created using Decision tree has a high False Positive Rate
-5. Model for Logistic Regression created using this data can only predict IMDB rating above 6 due to the dataset constraints.
-6. Models are improved by using Multi variables to predict data, with Metascore being the most important variable
+2. Dataset is distributed unevenly and skewed towards higher IMDB Ratings due to nature of our dataset.
+3. Model created using Decision tree has a high False Positive Rate
+4. Model for Logistic Regression created using this data can only predict IMDB rating above 6 due to the dataset constraints.
+5. Models are improved by using Multi variables to predict data, with Metascore being the most important variable
 
 ## What did we learn from this project
 1. Alpha pruning for Decision Tree
