@@ -45,3 +45,7 @@ For the data set that we used, it was from Kaggle: https://www.kaggle.com/datase
 ## References 
 https://www.youtube.com/watch?v=q90UDEgYqeI <br/>
 https://scikit-learn.org/0.24/modules/generated/sklearn.metrics.plot_confusion_matrix.html
+https://www.nickmccullum.com/python-machine-learning/linear-regression-python/
+https://www.geeksforgeeks.org/data-analysis-and-visualization-with-jupyter-notebook/
+https://www.datatechnotes.com/2019/10/accuracy-check-in-python-mae-mse-rmse-r.html
+https://towardsdatascience.com/data-analysis-and-visualization-with-jupyter-notebook-22f6dcd25cc5
