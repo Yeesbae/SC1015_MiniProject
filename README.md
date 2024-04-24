@@ -2,7 +2,7 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on predicting IMDB Rating based on the dataset retrieved from https://www.kaggle.com/datasets/prishasawhney/imdb-dataset-top-2000-movies
 
 ## Contributors
-@Yeesbae -  EDA, Data Cleaning, Linear Regression, Slides, Video script<br />
+@Yeesbae -  EDA, Data Cleaning, Linear Regression, Slides, Video script, conclude findings<br />
 @WeiHaoChin - EDA, Data Cleaning , Logistic Regression, Decision Tree, Slides , Video script <br />
 @cherylchq - 
 ## Context and outline 
